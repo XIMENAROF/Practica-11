@@ -7,7 +7,7 @@ accede a cada elemento del arreglo a través de un ciclo while.
 int main (){  //funcion principal
 
 //VARIABLES
-#define TAMANO 5
+#define TAMANO 5  
 int lista[TAMANO] = {10, 8, 5, 8, 7};  //SINTAXIS DEL ARREGLO UNIDIMENSIONAL
 int indice = 0;   //CONTADOR
 
